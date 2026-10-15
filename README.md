@@ -3,7 +3,7 @@
 Primeira interface web da Biblioteca Digital UniFECAF, feita só com HTML e CSS para a disciplina Design Web.
 
 - **Site publicado:** https://pauloot.github.io/biblioteca-unifecaf/
-- **Vídeo pitch:** [LINK DO VÍDEO]
+- **Vídeo pitch:** https://youtu.be/sNWMZDwWyXY
 
 ## Estrutura
 
